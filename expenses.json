@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "date": "2026-07-17",
+        "amount": 15.0,
+        "category": "Transport",
+        "description": "saving"
+    },
+    {
+        "id": 3,
+        "date": "2026-07-17",
+        "amount": 13.0,
+        "category": "Food",
+        "description": "nothing"
+    },
+    {
+        "id": 4,
+        "date": "2026-07-17",
+        "amount": 50.0,
+        "category": "Utilities",
+        "description": "I will spend these on 15 july 2026"
+    },
+    {
+        "id": 5,
+        "date": "2026-07-17",
+        "amount": 90.0,
+        "category": "Food",
+        "description": "i should save atleast 20$"
+    }
+]
