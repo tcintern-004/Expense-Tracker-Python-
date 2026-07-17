@@ -88,15 +88,16 @@ You can run this project instantly in your browser — no local Python setup nee
    ```
    
 ## Python Concepts Demonstrated
-*Functions
-*Lists
-*Dictionaries
-*Loops
-*Conditional Statements
-*Exception Handling
-*JSON File Handling
-*User Input Validation
-*Modular Programming
+
+* Functions
+* Lists
+* Dictionaries
+* Loops
+* Conditional Statements
+* Exception Handling
+* JSON File Handling
+* User Input Validation
+* Modular Programming
 
 ## Author
 Abdul Hadi
